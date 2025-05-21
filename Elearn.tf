@@ -8,7 +8,7 @@ terraform {
 }
 provider "azurerm" {
   features {}
-  subscription_id = "247d5ce7-c0a1-4b83-8d9c-30b55c958e6c"
+  subscription_id = "a739d0bd-4a45-4b41-a9e4-4ddee311ec47"
 
 }
 resource "azurerm_resource_group" "jaydeep_rg1" {
